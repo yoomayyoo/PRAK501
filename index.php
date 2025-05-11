@@ -1,6 +1,4 @@
-//untuk tampilan awal
-
-<?php
+<?php // file ini untuk tampilan awal
 $page = isset($_GET['page']) ? $_GET['page'] : '';
 
 if ($page == 'member') {
